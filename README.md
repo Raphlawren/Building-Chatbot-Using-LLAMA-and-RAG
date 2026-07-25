@@ -223,7 +223,3 @@ Current limitations include:
 Data Scientist | Machine Learning | Generative AI
 
 [LinkedIn](https://www.linkedin.com/in/raphael-farodoye-81035b28b/) · [GitHub](https://github.com/Raphlawren)
-
-## License
-
-This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
